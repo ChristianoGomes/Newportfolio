@@ -20,7 +20,7 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         After studying {" "}
-        <span className="font-medium">Psychology</span>, I decided to pursue my
+        <span className="font-medium">Psychology</span>, I ventured into the world of real estate until I decided to pursue my
         passion for programming. I enrolled in Codecademy, Freecodecamp & learned{" "}
         <span className="font-medium">Front-end web development</span>.{" "}
         <span className="italic">there are many aspects I enjoy about programming</span> my top two
