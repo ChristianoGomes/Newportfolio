@@ -5,7 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import petme from "@/public/petme.png";
 import proper from "@/public/proper.png";
 import hiking from "@/public/hiking.png";
-import realtor from "@/public/realtor.png";
+import realtor from "@/public/Realtor.png";
 
 export const links = [
   {
